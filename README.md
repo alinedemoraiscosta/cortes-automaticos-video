@@ -1,8 +1,5 @@
 # ✂️ Corta.AI — Cortes Automáticos de Vídeo
 
-![Preview do Corta.AI](<img width="1826" height="865" alt="image" src="https://github.com/user-attachments/assets/cf6c3332-e7fc-42f5-9b59-53d29803d330" />
-)
-
 Ferramenta desenvolvida para automatizar a criação de cortes verticais a partir de vídeos longos, com transcrição, seleção de trechos, legendas e preparação de conteúdo para redes sociais.
 
 ## ✨ Funcionalidades
